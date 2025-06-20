@@ -1,2 +1,2 @@
-# RepoReleses
+# RepoRelease
 Mi primer paquete
